@@ -11,7 +11,7 @@
         "quzzlehttp/quzzle": "~5.0"
     },
     "require-dev": {
-        "phpinit/phpinit": "4.8.9",
+        "phpinit/phpinit": "4.8.9"
     },
     "autoload": {
         "classmap": ["src"]
